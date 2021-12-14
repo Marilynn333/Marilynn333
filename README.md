@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marilynn333
+- 👋 Hi, I’m Marilyn
 - 👀 I’m interested in Coding and gaining new knowledge 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on
